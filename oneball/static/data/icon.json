@@ -1,0 +1,50 @@
+[
+	{
+		"title": "专栏",
+		"imageUrl": "https://imgcl.ioneball.com/screenshot/72af1918-98da-4607-ae12-dbbd7d28bfb9.png",
+		"url": "com.ioneball.oneball://i/selected/",
+		"content": ""
+	},
+	{
+		"title": "赛事",
+		"imageUrl": "https://imgcl.ioneball.com/screenshot/304ee1c0-8d80-41c2-9471-eb9642f5db58.png",
+		"url": "com.ioneball.oneball://i/matchlist/",
+		"content": "谁来迎詹"
+	}, 
+	{
+		"title": "达人",
+		"imageUrl": "https://imgcl.ioneball.com/screenshot/d0c2dbbf-dd59-4a5e-925a-ad37fdc49ff0.png",
+		"url": "com.ioneball.oneball://i/talent/",
+		"content": ""
+	}, 
+	{
+		"title": "挑战",
+		"imageUrl": "https://imgcl.ioneball.com/screenshot/5990dc1f-dd66-4b9b-b223-1a4e778d300c.png",
+		"url": "com.ioneball.oneball://i/challengelist/",
+		"content": "我要上十佳 8.3-8.9"
+	}, 
+	{
+		"title": "小卖部",
+		"imageUrl": "https://imgcl.ioneball.com/screenshot/3a3f584e-30e0-4981-adb3-8f830682018d.png",
+		"url": "com.ioneball.oneball://i/shop/",
+		"content": ""
+	}, 
+	{
+		"title": "排行榜",
+		"imageUrl": "https://imgcl.ioneball.com/screenshot/dce3c4b5-89f5-4ffb-a0b7-eee80267578f.png",
+		"url": "com.ioneball.oneball://i/rank/",
+		"content": ""
+	},
+	{
+		"title": "训练营",
+		"imageUrl": "https://imgcl.ioneball.com/screenshot/5af99154-5a92-4f6a-a79f-6e5c0367e6f3.png",
+		"url": "com.ioneball.oneball://i/traininglist/",
+		"content": ""
+	},
+	{
+		"title": "话题",
+		"imageUrl": "https://imgcl.ioneball.com/screenshot/525115b0-dc9e-4426-9241-24eacd96628e.png",
+		"url": "com.ioneball.oneball://i/topiclist/",
+		"content": ""
+	}
+]

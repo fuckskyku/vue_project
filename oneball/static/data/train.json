@@ -1,0 +1,59 @@
+{
+"data":{
+		"banner": {
+			"title": "门道（三分钟学会NBA球星绝招）",
+			"moreUrl": "com.ioneball.oneball://i/hotspotlist/13",
+			"items": [{
+				"title": "威少突破绝技教学",
+				"imageUrl": "http://imgcl.ioneball.com/screenshot/f43d431c-ce93-4942-bf9b-7cbb32ce9b42.png",
+				"url": "com.ioneball.oneball://i/activity/215900"
+			}, {
+				"title": "哈登后撤步跳投教学",
+				"imageUrl": "http://imgcl.ioneball.com/screenshot/97159b0f-213e-46e5-9177-d6162413c63d.jpg",
+				"url": "com.ioneball.oneball://i/activity/234730"
+			}, {
+				"title": "克莱汤普森无球进攻",
+				"imageUrl": "http://imgcl.ioneball.com/screenshot/dff985c0-2d56-4b52-b854-fe08bf179bac.jpg",
+				"url": "com.ioneball.oneball://i/activity/222037"
+			}]
+		},
+		"banner2": {
+			"title": "推荐训练营",
+			"moreUrl": "com.ioneball.oneball://i/traininglist/",
+			"items": [{
+				"title": "壹球训练营成都站",
+				"imageUrl": "https://imgcl.ioneball.com/screenshot/26b6cfe8-e396-46a0-aac7-1dbc3e823c9a.jpg",
+				"url": "com.ioneball.oneball://i/trainingcamp/10"
+			}, {
+				"title": "进化特训营",
+				"imageUrl": "https://imgcl.ioneball.com/screenshot/4e8ed813-e64b-485a-99d1-1a6175063634.jpg",
+				"url": "com.ioneball.oneball://i/trainingcamp/9"
+			}, {
+				"title": "暑期训练营大连站【加盟】",
+				"imageUrl": "https://imgcl.ioneball.com/screenshot/d5164c16-36fc-4fc1-9528-85cad6f1c37d.jpg",
+				"url": "com.ioneball.oneball://i/trainingcamp/8"
+			}, {
+				"title": "暑期训练营台州站【加盟】",
+				"imageUrl": "https://imgcl.ioneball.com/screenshot/c5f8e7a7-3500-4baa-9e23-90f16aef60bb.jpg",
+				"url": "com.ioneball.oneball://i/trainingcamp/7"
+			}, {
+				"title": "暑期训练营合肥站【加盟】",
+				"imageUrl": "https://imgcl.ioneball.com/screenshot/efd9f934-7a8d-4ccd-9118-4faba6f77ea0.jpg",
+				"url": "com.ioneball.oneball://i/trainingcamp/6"
+			}, {
+				"title": "暑期特训营",
+				"imageUrl": "https://imgcl.ioneball.com/screenshot/1870c823-4c1b-4491-a540-0e049cc08e3c.jpg",
+				"url": "com.ioneball.oneball://i/trainingcamp/5"
+			}, {
+				"title": "教练进化工厂",
+				"imageUrl": "https://imgcl.ioneball.com/screenshot/31167ebb-4306-428a-a6da-3cc5ceaa7579.jpg",
+				"url": "com.ioneball.oneball://i/trainingcamp/3"
+			}, {
+				"title": "克里斯海帕训练营",
+				"imageUrl": "https://imgcl.ioneball.com/screenshot/0d2f2033-848e-457a-a040-a38fb67ae942.jpg",
+				"url": "com.ioneball.oneball://i/trainingcamp/1"
+			}]
+		}
+	}
+}
+

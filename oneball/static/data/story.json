@@ -1,0 +1,169 @@
+[
+	{
+		"activityId": 807000,
+		"user": {
+			"userId": 1,
+			"nickname": "壹球",
+			"headimg": "http://imgcl.ioneball.com/screenshot/oneball_log_black_white.png",
+			"position": "球迷",
+			"userTypeProfile": "壹球官方账号"
+		},
+		"userId": 1,
+		"content": "#壹球字幕组# 教授课堂：哈登后撤步教学！",
+		"imageUrl": [
+			"http://imgcl.ioneball.com/screenshot/6b846f9d-1429-4e8f-b0ad-6d6aa9d94bcb_1002x564.jpg?http://imgcl.ioneball.com/video/276fcde3-e468-45a4-a2de-2d24aa5b965c.mp4"
+		],
+		"createTimeString": "2018-08-07 17:28:16",
+		
+		"share": {
+			"title": "#壹球字幕组# 教授课堂：哈登后撤步教学！",
+			"subtitle": "来自壹球用户壹球，一起来看~",
+			"h5url": "http://ioneball.com/article/807000",
+			"imageUrl": "http://imgcl.ioneball.com/screenshot/6b846f9d-1429-4e8f-b0ad-6d6aa9d94bcb_1002x564.jpg?http://imgcl.ioneball.com/video/276fcde3-e468-45a4-a2de-2d24aa5b965c.mp4"
+		}
+	}, 
+	{
+		"activityId": 806994,
+		"user": {
+			"userId": 704322,
+			"nickname": "王玄91",
+			"headimg": "http://oneball-head.img-cn-shanghai.aliyuncs.com/20170527045126893ios_oneball.jpeg",
+			"position": "控球后卫",
+			"userTypeProfile": "91篮球教学创始人 制片人 体育视频自媒体"
+		},
+		"userId": 704322,			
+		"content": "乔丹惯用交叉步转身投篮教学",
+		"pointName": "成都市",
+		"lat": 30.5738332790799,
+		"lng": 104.195833062066,
+		"imageUrl": [
+			"http://oneball-head.img-cn-shanghai.aliyuncs.com/04D66BA4-47F5-495F-9731-86BCF17874D3_540x960.jpeg?http://imgcl.ioneball.com/video/2958BE08-3BC5-4EEA-91E0-1BF27F7A999B.mp4"
+		],
+		"createTimeString": "2018-08-07 17:02:20",
+		"share": {
+			"title": "乔丹惯用交叉步转身投篮教学",
+			"subtitle": "来自壹球用户 王玄91，一起来看~",
+			"h5url": "http://ioneball.com/article/806994",
+			"imageUrl": "http://oneball-head.img-cn-shanghai.aliyuncs.com/04D66BA4-47F5-495F-9731-86BCF17874D3_540x960.jpeg?http://imgcl.ioneball.com/video/2958BE08-3BC5-4EEA-91E0-1BF27F7A999B.mp4"
+		}
+	}, 
+	{
+		"activityId": 806981,
+		"user": {
+			"userId": 436682,
+			"nickname": "克里斯海帕",
+			"headimg": "http://oneball-head.img-cn-shanghai.aliyuncs.com/20180804081658953ios_oneball.jpeg",
+			
+			"userTypeProfile": "壹球签约训练师"
+
+		},
+		"userId": 436682,
+		
+		"content": "#壹球训练营# 运球基础训练，这个夏天get起来~",
+	
+		"imageUrl": [
+			"http://imgcl.ioneball.com/screenshot/4e6cff3d-77c1-4e82-a695-124ed37fad46_640x360.png?http://imgcl.ioneball.com/video/5b25b986-5b5c-4f18-adeb-6e726fab9f5d.mp4"
+		],
+		"createTimeString": "2018-08-07 15:49:59",
+		"share": {
+			"title": "#壹球训练营# 运球基础训练，这个夏天get起来~",
+			"subtitle": "来自壹球用户克里斯海帕，一起来看~",
+			"h5url": "http://ioneball.com/article/806981",
+			"imageUrl": "http://imgcl.ioneball.com/screenshot/4e6cff3d-77c1-4e82-a695-124ed37fad46_640x360.png?http://imgcl.ioneball.com/video/5b25b986-5b5c-4f18-adeb-6e726fab9f5d.mp4"
+		}
+	}, 
+	{
+		"activityId": 806901,
+		"user": {
+			"userId": 991602,
+			"nickname": "篮球营养餐",
+			"headimg": "http://oneball-head.img-cn-shanghai.aliyuncs.com/20170807042359421ios_oneball.jpeg",
+			
+			"userTypeProfile": "NBA记录达人"
+		
+		},
+		"userId": 991602,
+
+		"content": "预测！新赛季最佳双人组，库里、杜兰特夺魁，保罗、哈登其次，还有上赛季仅仅同场五分钟的欧文、海沃德！你觉得如何？",
+		"imageUrl": [
+			"http://imgcl.ioneball.com/screenshot/6886fd3f-37b0-45d8-9653-0c360bca08fc_1002x564.jpg?http://imgcl.ioneball.com/video/5666a460-fb9b-440b-a160-1030697335b1.mp4"
+		],
+		"createTimeString": "2018-08-07 15:49:59",
+		"share": {
+			"title": "预测！新赛季最佳双人组，库里、杜兰特夺魁，保罗、哈登其次，还有上赛季仅仅同场五分钟的欧文、海沃德！你觉得如何？",
+			"subtitle": "来自壹球用户 篮球营养餐，一起来看~",
+			"h5url": "http://ioneball.com/article/806901",
+			"imageUrl": "http://imgcl.ioneball.com/screenshot/6886fd3f-37b0-45d8-9653-0c360bca08fc_1002x564.jpg?http://imgcl.ioneball.com/video/5666a460-fb9b-440b-a160-1030697335b1.mp4"
+		}
+	}, 
+	{
+		"activityId": 806940,
+		"user": {
+			"userId": 1035025,
+			"nickname": "草根梦\uD83C\uDFC0（金奥）",
+			"headimg": "https://headimg.ioneball.com/1532584615101.jpg",
+			"position": "控球后卫"
+		},
+		"userId": 1035025,
+		"content": "比你好的人还在努力，你又什么资格说放弃，",
+		"imageUrl": [
+			"https://headimg.ioneball.com/0d3d6a21-0f3f-485e-872d-b0fb3f11038f_480x856.jpg?https://headimg.ioneball.com/6e708f8d-3598-403b-815b-ad960c67b354.mp4"
+		],
+		"createTimeString": "2018-08-07 15:49:59",
+		"share": {
+			"title": "比你好的人还在努力，你又什么资格说放弃，",
+			"subtitle": "来自壹球用户 草根梦\uD83C\uDFC0（金奥）一起来看~" ,
+			"h5url": "http://ioneball.com/article/806940",
+			"imageUrl":"https://headimg.ioneball.com/0d3d6a21-0f3f-485e-872d-b0fb3f11038f_480x856.jpg?https://headimg.ioneball.com/6e708f8d-3598-403b-815b-ad960c67b354.mp4"}},
+			
+	{
+		"activityId": 807004,
+		"user": {
+			"userId": 768466,
+			"nickname": "紫金一生推",
+			"headimg": "http://oneball-head.img-cn-shanghai.aliyuncs.com/20170320100512192ios_oneball.jpeg",
+			"userTypeProfile": "壹球认证用户"
+		},
+		"userId": 768466,
+		"content": "“谢谢你，圣安东尼奥，因为现在唯一一个我能用来称呼你的词就是：家！”帕克发长文感谢马刺！\n\n从法国小跑车到老跑车，一起看看球场上帕克曾经的英姿吧！",
+		"imageUrl": [
+			"http://imgcl.ioneball.com/screenshot/3fce62d6-3931-408c-b253-d80458ef4bf8_1002x564.jpg?http://imgcl.ioneball.com/video/ae01793a-209e-4af2-bf02-d890fc7c5ae9.mp4"
+		],
+		"createTimeString": "2018-08-07 18:15:57",
+		"share": {
+			"title": "“谢谢你，圣安东尼奥，因为现在唯一一个我能用来称呼你的词就是：家！”帕克发长文感谢马刺！\n\n从法国小跑车到老跑车，一起看看球场上帕克曾经的英姿吧！",
+			"subtitle": "来自壹球用户 紫金一生推，一起来看~",
+			"h5url": "http://ioneball.com/article/807004",
+			"imageUrl": "http://imgcl.ioneball.com/screenshot/3fce62d6-3931-408c-b253-d80458ef4bf8_1002x564.jpg?http://imgcl.ioneball.com/video/ae01793a-209e-4af2-bf02-d890fc7c5ae9.mp4"
+		}
+	}, 
+	{
+		"activityId": 806866,
+		"user": {
+			"userId": 865831,
+			"nickname": "游泳的黄瓜苗",
+			"headimg": "https://headimg.ioneball.com/050904540CnixYSe6FgXc4cMJVK16dB6.jpg",
+			"position": "控球后卫",
+			"userType": 0,
+			"userTypeProfile": null,
+			"captain": false,
+			"followBan": 0,
+			"userLevel": 1
+		},
+		"userId": 865831,
+		"content": " #这波操作666# 这是个好球",
+		"imageUrl": [
+			"http://oneball-head.img-cn-shanghai.aliyuncs.com/58BD39A3-A701-4579-9300-FD6B9E343CA0_960x544.jpeg?http://imgcl.ioneball.com/video/50E73137-8197-4547-A15B-64A5E3FD6BC5.mp4"
+		],
+		"createTimeString": "2018-08-07 07:03:24",
+		"share": {
+			"title": " #这波操作666# 这是个好球",
+			"subtitle": "来自壹球用户游泳的黄瓜苗，一起来看~",
+			"h5url": "http://ioneball.com/article/806866",
+			"imageUrl": "http://oneball-head.img-cn-shanghai.aliyuncs.com/58BD39A3-A701-4579-9300-FD6B9E343CA0_960x544.jpeg?http://imgcl.ioneball.com/video/50E73137-8197-4547-A15B-64A5E3FD6BC5.mp4"
+		}
+	} 
+]
+
+					
+			

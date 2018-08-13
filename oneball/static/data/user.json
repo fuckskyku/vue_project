@@ -1,0 +1,235 @@
+[
+	{
+		"activityId": 807169,
+		"user": {
+			"userId": 1,
+			"nickname": "壹球",
+			"headimg": "http://imgcl.ioneball.com/screenshot/oneball_log_black_white.png",
+			"position": "球迷",
+			"userTypeProfile": "壹球官方账号"
+		},
+		"userId": 1,
+		"content": "#壹球秘笈# 《JLaw系列教学》：提臀投篮训练 | 做出投篮姿势，提臀下沉，控制身体，保持平衡！JLaw提臀投篮训练，赶紧mark起来吧！",
+		"imageUrl": [
+			"http://imgcl.ioneball.com/screenshot/41b079b6-5536-4654-945a-71c5dad28d85_854x480.png?http://imgcl.ioneball.com/video/6fb36deb-c030-4c1e-915d-5532db8a9ed6.mp4"
+		],
+		"createTimeString": "2018-08-08 17:25:37",
+		"favoriteNum": 3,
+		"share": {
+			"title": "#壹球秘笈# 《JLaw系列教学》：提臀投篮训练 | 做出投篮姿势，提臀下沉，控制身体，保持平衡！JLaw提臀投篮训练，赶紧mark起来吧！",
+			"subtitle": "来自壹球用户壹球，一起来看~",
+			"h5url": "http://ioneball.com/article/807169",
+			"imageUrl": "http://imgcl.ioneball.com/screenshot/41b079b6-5536-4654-945a-71c5dad28d85_854x480.png?http://imgcl.ioneball.com/video/6fb36deb-c030-4c1e-915d-5532db8a9ed6.mp4"
+		}
+	}, 
+	{
+		"activityId": 807160,
+		"user": {
+			"userId": 636237,
+			"nickname": "JLawBball",
+			"headimg": "http://oneball-head.img-cn-shanghai.aliyuncs.com/20170112050827653ios_oneball.jpeg",
+			"position": "得分后卫",
+			"userTypeProfile": "壹球签约训练师，多名NBA球员训练师"
+		},
+		"userId": 636237,
+		"content": "一个人可做的接球投篮练习！",
+		"imageUrl": [
+			"http://imgcl.ioneball.com/screenshot/006c7e57-31a1-4374-964c-b073dca9e707_767x438.png?http://imgcl.ioneball.com/video/f06411af-a4c3-43e8-bc57-546d749fd3b0.mp4"
+		],
+		"createTimeString": "2018-08-08 16:44:38",
+		"favoriteNum": 4,
+		"share": {
+			"title": "一个人可做的接球投篮练习！",
+			"subtitle": "来自壹球用户 JLawBball，一起来看~",
+			"h5url": "http://ioneball.com/article/807160",
+			"imageUrl": "http://imgcl.ioneball.com/screenshot/006c7e57-31a1-4374-964c-b073dca9e707_767x438.png?http://imgcl.ioneball.com/video/f06411af-a4c3-43e8-bc57-546d749fd3b0.mp4"
+		}
+	}, 
+	{
+		"activityId": 806981,
+		"user": {
+			"userId": 436682,
+			"nickname": "克里斯海帕",
+			"headimg": "http://oneball-head.img-cn-shanghai.aliyuncs.com/20180804081658953ios_oneball.jpeg",
+			"position": "得分后卫",
+			"userTypeProfile": "壹球签约训练师"
+		},
+		"userId": 436682,		
+		"content": "#壹球训练营# 运球基础训练，这个夏天get起来~",
+		"imageUrl": [
+			"http://imgcl.ioneball.com/screenshot/4e6cff3d-77c1-4e82-a695-124ed37fad46_640x360.png?http://imgcl.ioneball.com/video/5b25b986-5b5c-4f18-adeb-6e726fab9f5d.mp4"
+		],
+		"createTimeString": "2018-08-07 15:49:59",
+		"favoriteNum": 77,
+		"share": {
+			"title": "#壹球训练营# 运球基础训练，这个夏天get起来~",
+			"subtitle": "来自壹球用户克里斯海帕，一起来看~",
+			"h5url": "http://ioneball.com/article/806981",
+			"imageUrl": "http://imgcl.ioneball.com/screenshot/4e6cff3d-77c1-4e82-a695-124ed37fad46_640x360.png?http://imgcl.ioneball.com/video/5b25b986-5b5c-4f18-adeb-6e726fab9f5d.mp4"
+		}
+	}, 
+	{
+		"activityId": 806808,
+		"user": {
+			"userId": 655721,
+			"nickname": "ART篮球",
+			"headimg": "http://oneball-head.img-cn-shanghai.aliyuncs.com/20170112160524232ios_oneball.jpeg",
+			"position": "控球后卫",
+			"userTypeProfile": "各种篮球美图更新，关注ART篮球吧！"
+
+		},
+		"userId": 655721,
+		"content": "库里艺术风！",
+		"imageUrl": [
+			"http://imgcl.ioneball.com/screenshot/59b0320b-cdd1-4e2e-bb34-0c24c8fda175_766x427.png?http://imgcl.ioneball.com/video/a5bfb612-7b5f-41f8-8b5e-0226de5bab89.mp4"
+		],
+		"createTimeString": "2018-08-06 20:42:00",
+		"favoriteNum": 58,
+		"share": {
+			"title": "库里艺术风！",
+			"subtitle": "来自壹球用户 ART篮球，一起来看~",
+			"h5url": "http://ioneball.com/article/806808",
+			"imageUrl": "http://imgcl.ioneball.com/screenshot/59b0320b-cdd1-4e2e-bb34-0c24c8fda175_766x427.png?http://imgcl.ioneball.com/video/a5bfb612-7b5f-41f8-8b5e-0226de5bab89.mp4"
+		}
+	}, 
+	{
+		"activityId": 805224,
+		"user": {
+			"userId": 466169,
+			"nickname": "曹芳",
+			"headimg": "http://oneball-head.img-cn-shanghai.aliyuncs.com/20160907011511957ios_oneball.jpeg",
+			"position": "得分后卫",
+			"userTypeProfile": "壹球首席助教，街球明星"
+		},
+		"userId": 466169,
+		"content": "纽约Dyckman练习赛！",
+		"imageUrl": [
+			"http://imgcl.ioneball.com/screenshot/e176ff7b-e9fc-47a6-ba84-2d3bb83c4cb7_763x438.png?http://imgcl.ioneball.com/video/718d1dfa-d222-45af-8167-885fb521338b.mp4"
+		],
+		"createTimeString": "2018-07-30 15:29:19",
+		"favoriteNum": 62,
+		"share": {
+			"title": "纽约Dyckman练习赛！",
+			"subtitle": "来自壹球用户 曹芳，一起来看~",
+			"h5url": "http://ioneball.com/article/805224",
+			"imageUrl": "http://imgcl.ioneball.com/screenshot/e176ff7b-e9fc-47a6-ba84-2d3bb83c4cb7_763x438.png?http://imgcl.ioneball.com/video/718d1dfa-d222-45af-8167-885fb521338b.mp4"
+		}
+	}, 
+	{
+		"activityId": 800530,
+		"user": {
+			"userId": 565955,
+			"nickname": "德文·威廉姆斯",
+			"headimg": "http: //oneball-head.img-cn-shanghai.aliyuncs.com/20161129140900870ios_oneball.jpeg",
+			"position": null, 
+			"userTypeProfile": "壹球首席训练师，创造10000小时系列篮球纪录片"
+			},
+			"userId": 436674,
+			"content": "《街球BOOM》：德文·威廉姆斯 | 十个打球的人中想必有九个都认识他，有八个都敬佩他喜爱他！他创造了篮球纪录片《10000小时》和训练系列片《in the lab》，最为令人津津乐道的，不只是德文对于篮球训练的反思，还有，他重新定义了苦练一词。“一直在路上”，这样，所付出的10000小时才是有意义的，一个球手才能真正的得到蜕变。#街头篮球#",
+			"imageUrl": [
+				"http://imgcl.ioneball.com/screenshot/b9673943-53c3-4e82-89fd-ace7a5aaffec_2560x1440.jpg?http://imgcl.ioneball.com/video/c21a14be-d864-49ff-b68d-1c54ed2e790b.mp4"
+			],
+			"createTimeString": "2018-01-30 18:10:46",
+			"favoriteNum": 615,
+			"share": {
+				"title": "《街球BOOM》：德文·威廉姆斯 | 十个打球的人中想必有九个都认识他，有八个都敬佩他喜爱他！他创造了篮球纪录片《10000小时》和训练系列片《in the lab》，最为令人津津乐道的，不只是德文对于篮球训练的反思，还有，他重新定义了苦练一词。“一直在路上”，这样，所付出的10000小时才是有意义的，一个球手才能真正的得到蜕变。#街头篮球#",
+				"subtitle": "来自壹球用户壹球_实战，一起来看~",
+				"h5url": "http://ioneball.com/article/765242",
+				"imageUrl": "http://imgcl.ioneball.com/screenshot/b9673943-53c3-4e82-89fd-ace7a5aaffec_2560x1440.jpg?http://imgcl.ioneball.com/video/c21a14be-d864-49ff-b68d-1c54ed2e790b.mp4"
+			}
+		},
+	{
+		"activityId": 756608,
+		"user": {
+			"userId": 20719,
+			"nickname": "tj7",
+			"headimg": "http://oneball-head.img-cn-shanghai.aliyuncs.com/20160917120500959ios_oneball.jpeg",
+			"position": "控球后卫",
+			"userTypeProfile": "GAMEDAY主持人，篮球主播"
+		},
+		"userId": 20719,
+		"content": "赵库里关键3分，广厦太硬气了",
+		"imageUrl": [
+			"http://oneball-head.img-cn-shanghai.aliyuncs.com/34BA3BBF-AE33-48FD-BBA2-B5744A841B91_960x540.jpeg?http://imgcl.ioneball.com/video/64E422D1-63CB-4466-9790-12FAA755B0D0.mp4"
+		],
+		"createTimeString": "2018-01-05 11:06:24",
+		"favoriteNum": 60,
+		"share": {
+			"title": "赵库里关键3分，广厦太硬气了",
+			"subtitle": "来自壹球用户 tj7，一起来看~",
+			"h5url": "http://ioneball.com/article/756608",
+			"imageUrl": "http://oneball-head.img-cn-shanghai.aliyuncs.com/34BA3BBF-AE33-48FD-BBA2-B5744A841B91_960x540.jpeg?http://imgcl.ioneball.com/video/64E422D1-63CB-4466-9790-12FAA755B0D0.mp4"
+		}
+	},
+	{
+		"activityId": 754157,
+		"user": {
+			"userId": 438099,
+			"nickname": "郁菲fay",
+			"headimg": "http://oneball-head.img-cn-shanghai.aliyuncs.com/20170407005653668ios_oneball.jpeg",
+			"position": "小前锋",
+			"userTypeProfile": "门道女嘉宾，CBA解说，上海交大校队队员"
+		},
+		"userId": 438099,
+		"content": "两分算\uD83D\uDE35\uD83D\uDE35\uD83D\uDE35 #NBA#",
+		"imageUrl": [
+			"http://oneball-head.img-cn-shanghai.aliyuncs.com/ED696850-8F83-422C-9B41-932460D39560_544x544.jpeg?http://imgcl.ioneball.com/video/6977A7A4-C020-4D38-8772-E7B7DC69D3DD.mp4"
+		],
+		"createTimeString": "2017-12-29 13:47:36",
+		"favoriteNum": 212,
+		"share": {
+			"title": "两分算\uD83D\uDE35\uD83D\uDE35\uD83D\uDE35 #NBA#",
+			"subtitle": "来自壹球用户郁菲fay，一起来看~",
+			"h5url": "http://ioneball.com/article/754157",
+			"imageUrl": "http://oneball-head.img-cn-shanghai.aliyuncs.com/ED696850-8F83-422C-9B41-932460D39560_544x544.jpeg?http://imgcl.ioneball.com/video/6977A7A4-C020-4D38-8772-E7B7DC69D3DD.mp4"
+		}
+	},
+	{
+		"activityId": 752719,
+		"user": {
+			"userId": 516867,
+			"nickname": "戴常春ChuckD",
+			"headimg": "http://oneball-head.img-cn-shanghai.aliyuncs.com/20161108100011223ios_oneball.jpeg",
+			"position": "得分后卫",
+			"userTypeProfile": "加拿大UBC大学男篮华裔后卫"
+		},
+		"userId": 516867,
+		"content": "打篮球的时候顺便学会下厨做饭，嘿嘿，上次的厨房记拍摄了个小片段，祝大家在圣诞节吃大火鸡，健康运动，健康饮食哦，圣诞节快乐。UBC男篮厨房大队奉上~ 圣诞节，福利放送！",
+		"imageUrl": [
+			"http://imgcl.ioneball.com/screenshot/512c1d7f-4c2e-4d5d-a534-423cbaef42ee_702x395.png?http://imgcl.ioneball.com/video/3da53d9b-9b73-461a-adf4-1bcd2c00812b.mp4"
+		],
+		"createTimeString": "2017-12-25 11:33:19",
+		"favoriteNum": 45,
+		"share": {
+			"title": "打篮球的时候顺便学会下厨做饭，嘿嘿，上次的厨房记拍摄了个小片段，祝大家在圣诞节吃大火鸡，健康运动，健康饮食哦，圣诞节快乐。UBC男篮厨房大队奉上~ 圣诞节，福利放送！",
+			"subtitle": "来自壹球用户 戴常春ChuckD，一起来看~",
+			"h5url": "http://ioneball.com/article/752719",
+			"imageUrl": "http://imgcl.ioneball.com/screenshot/512c1d7f-4c2e-4d5d-a534-423cbaef42ee_702x395.png?http://imgcl.ioneball.com/video/3da53d9b-9b73-461a-adf4-1bcd2c00812b.mp4"
+		}
+	},
+			
+			
+	{
+		"activityId": 741335,
+		"user": {
+			"userId": 20860,
+			"nickname": "熊磊NBL",
+			"headimg": "http://oneball-head.img-cn-shanghai.aliyuncs.com/20170922045727829ios_oneball.jpeg",
+			"position": "控球后卫",
+			"userTypeProfile": "壹球课程演示球员，现役职业篮球运动员"
+		},
+		"userId": 20860,
+		"content": "好久不见 #CBA# #NBA# #让我装个逼#",
+		"imageUrl": [
+			"http://oneball-head.img-cn-shanghai.aliyuncs.com/BB0BC7FB-D34E-465B-9884-E83402668764_480x480.jpeg?http://imgcl.ioneball.com/video/B3F881D5-C5AB-4002-9B8D-F3CD40A82747.mp4"
+		],
+		"createTimeString": "2017-11-30 16:24:29",
+		"favoriteNum": "34",
+		"share": {
+			"title": "好久不见# CBA## NBA## 让我装个逼#",
+			"subtitle": "来自壹球用户熊磊NBL， 一起来看~",
+			"h5url": "http: //ioneball.com/article/741335",
+			"imageUrl":"http://oneball-head.img-cn-shanghai.aliyuncs.com/BB0BC7FB-D34E-465B-9884-E83402668764_480x480.jpeg?http://imgcl.ioneball.com/video/B3F881D5-C5AB-4002-9B8D-F3CD40A82747.mp4"
+		}
+	}			
+]

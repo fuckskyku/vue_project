@@ -1,0 +1,28 @@
+[
+	{
+		"userId": 701852,
+		"mobile": "18883373625",
+		"nickname": "小学生库昊",
+		"birthday": "1995-01-05",
+		"height": 184,
+		"sex": "男",
+		"weight": 66.0,
+		"position": "球迷",
+		"cityId": 1128,
+		"city": "厦门",
+		"headimg": "http://oneball-head.img-cn-shanghai.aliyuncs.com/20170207155654029ios_oneball.jpeg",
+		"shoes": 44.0,
+		"poloshirt": 8,
+		"cardType": 2,
+		"idcard": null,
+		"realName": null,
+		"openProfile": 1,
+		"userType": 0,
+		"captain": false,
+		"userTypeProfile": null,
+		"userLevel": 0,
+		"experienceValue": 421,
+		"goldValue": 682,
+		"goldUrl": "https://ioneball.com/me/my-point"
+	}
+]

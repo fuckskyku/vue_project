@@ -1,0 +1,141 @@
+ [
+	 {
+ 		"activityId": 806912,
+ 		"user": {
+ 			"userId": 1236387,
+ 			"nickname": "瓜哥很努力\uD83D\uDCAA",
+ 			"headimg": "https://headimg.ioneball.com/080514102SEJByZMiiUrgp2Lir7u5eb8.jpg"
+ 		},
+ 		"userId": 1236387,
+ 		"content": " #篮球路上有你#加油",
+ 		"imageUrl": ["https://headimg.ioneball.com/17fc2bfe-a06d-4ab4-9811-b1d234e5f3d4_1080x1080.jpg"],
+ 		"createTimeString": "2018-08-07 11:45:03",
+ 		"share": {
+ 			"title": " #篮球路上有你#加油",
+ 			"subtitle": "来自壹球用户瓜哥很努力\uD83D\uDCAA，一起来看~",
+ 			"h5url": "http://ioneball.com/article/806912",
+ 			"imageUrl": "https://headimg.ioneball.com/17fc2bfe-a06d-4ab4-9811-b1d234e5f3d4_1080x1080.jpg"
+ 		}
+ 	},
+ 	{
+ 		"activityId": 806778,
+ 		"user": {
+ 			"userId": 815277,
+ 			"nickname": "背身单打10",
+ 			"headimg": "http://oneball-head.img-cn-shanghai.aliyuncs.com/20170508121958654ios_oneball.jpeg"
+ 		},
+ 		"userId": 815277,
+ 		"content": "666",
+ 		"imageUrl": [
+ 			"http://oneball-head.img-cn-shanghai.aliyuncs.com/159F92A3-F097-4108-8DA0-9571A565A168_960x544.jpeg?http://imgcl.ioneball.com/video/815141B8-E8D9-4FEA-96BB-A3FA8328B8CB.mp4"
+ 		],
+ 		"createTimeString": "2018-08-06 15:57:41",
+ 		"share": {
+ 			"title": "666",
+ 			"subtitle": "来自壹球用户 背身单打10，一起来看~",
+ 			"h5url": "http://ioneball.com/article/806778",
+ 			"imageUrl": "http://oneball-head.img-cn-shanghai.aliyuncs.com/159F92A3-F097-4108-8DA0-9571A565A168_960x544.jpeg?http://imgcl.ioneball.com/video/815141B8-E8D9-4FEA-96BB-A3FA8328B8CB.mp4"
+ 		}
+ 	}, 
+	{
+ 		"activityId": 804721,
+ 		"user": {
+ 			"userId": 1122168,
+ 			"nickname": "仙叶奇侠",
+ 			"headimg": "https://headimg.ioneball.com/default-headimg.jpg"
+ 		},
+ 		"userId": 1122168,
+ 		"content": " #今天我打球了#\n早场，热身中，试传",
+ 		"imageUrl": [
+ 			"http://oneball-head.img-cn-shanghai.aliyuncs.com/71965A3C-A587-4859-81E0-7B21193E38FE_540x960.jpeg?http://imgcl.ioneball.com/video/EBEA5D7B-94E5-4682-9FFD-6AE6CD485631.mp4"
+ 		],
+ 		"createTimeString": "2018-07-28 18:47:53",
+ 		"share": {
+ 			"title": " #今天我打球了#\n早场，热身中，试传",
+ 			"subtitle": "来自壹球用户仙叶奇侠，一起来看~",
+ 			"h5url": "http://ioneball.com/article/804721",
+ 			"imageUrl": "http://oneball-head.img-cn-shanghai.aliyuncs.com/71965A3C-A587-4859-81E0-7B21193E38FE_540x960.jpeg?http://imgcl.ioneball.com/video/EBEA5D7B-94E5-4682-9FFD-6AE6CD485631.mp4"
+ 		}
+ 	}, 
+	{
+ 		"activityId": 803826,
+ 		"user": {
+ 			"userId": 916042,
+ 			"nickname": "厦门小库里",
+ 			"headimg": "https://headimg.ioneball.com/06111532GEdADQm8nG3CwqQG8LCQ8KUr.jpg"
+ 		},
+ 		"userId": 916042,
+ 		"content": "传说中的挡拆，管你巨人林立能耐我何？\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02",
+ 		"imageUrl": [
+ 			"https://headimg.ioneball.com/84e8da4c-8fdc-4039-a572-a3e452e3fe96_856x480.jpg?https://headimg.ioneball.com/953dfbfc-63f9-4e7f-be8a-21b41dae33f6.mp4"
+ 		],
+ 		"createTimeString": "2018-07-25 03:59:19",
+ 		"share": {
+ 			"title": "传说中的挡拆，管你巨人林立能耐我何？\uD83D\uDE02\uD83D\uDE02\uD83D\uDE02",
+ 			"subtitle": "来自壹球用户 厦门小库里，一起来看~",
+ 			"h5url": "http://ioneball.com/article/803826",
+ 			"imageUrl": "https://headimg.ioneball.com/84e8da4c-8fdc-4039-a572-a3e452e3fe96_856x480.jpg?https://headimg.ioneball.com/953dfbfc-63f9-4e7f-be8a-21b41dae33f6.mp4"
+ 		}
+ 	}, 
+	{
+ 		"activityId": 798642,
+ 		"user": {
+ 			"userId": 1210320,
+ 			"nickname": "许斌.",
+ 			"headimg": "http://oneball-head.img-cn-shanghai.aliyuncs.com/20180701115308610ios_oneball.jpeg"
+ 		},
+ 		"userId": 1210320,
+		"content": "这什么鞋",
+ 		"imageUrl": ["http://oneball-head.img-cn-shanghai.aliyuncs.com/B8B048DC-BE36-4E9D-A7B8-D812FB4E0061_700x700.jpeg"],
+ 		"createTimeString": "2018-07-02 10:38:28",
+ 		"share": {
+ 			"title": "这什么鞋",
+ 			"subtitle": "来自壹球用户 许斌.，一起来看~",
+ 			"h5url": "http://ioneball.com/article/798642",
+ 			"imageUrl": "http://oneball-head.img-cn-shanghai.aliyuncs.com/B8B048DC-BE36-4E9D-A7B8-D812FB4E0061_700x700.jpeg"
+ 		}
+ 	}, 
+	{
+ 		"activityId": 797640,
+ 		"user": {
+ 			"userId": 1131187,
+ 			"nickname": "我爱睡觉",
+ 			"headimg": "https://headimg.ioneball.com/1520990540876.jpg"
+ 		},
+ 		"userId": 1131187,
+ 		"content": "大神帮我看看刚学的后撤步哪里有问题\uD83D\uDE04 #篮球路上有你#",
+ 		"imageUrl": [
+ 			"https://headimg.ioneball.com/d0f7cd7a-ca78-4efe-9bb3-816aabbb2bee_480x856.jpg?https://headimg.ioneball.com/24118de9-9c65-4dc7-af24-9812b10d60e9.mp4"
+ 		],
+ 		"createTimeString": "2018-06-27 19:12:24",
+ 		"share": {
+ 			"title": "大神帮我看看刚学的后撤步哪里有问题\uD83D\uDE04 #篮球路上有你#",
+ 			"subtitle": "来自壹球用户我爱睡觉，一起来看~",
+ 			"h5url": "http://ioneball.com/article/797640",
+ 			"imageUrl": "https://headimg.ioneball.com/d0f7cd7a-ca78-4efe-9bb3-816aabbb2bee_480x856.jpg?https://headimg.ioneball.com/24118de9-9c65-4dc7-af24-9812b10d60e9.mp4"
+ 		}
+ 	}, 
+	{
+ 		"activityId": 791745,
+ 		"user": {
+ 			"userId": 1091779,
+ 			"nickname": "DEZE",
+ 			"headimg": "https://headimg.ioneball.com/1526184004322.jpg"
+ 		},
+ 		"userId": 1091779,
+ 		"content": " #新手区#\n与对门初二小哥哥的单挑，小区条件差没有框，突破不太坚决，因为在学校都是打快攻的说，，本人150",
+ 		"imageUrl": [
+ 			"https://headimg.ioneball.com/d38d8bba-6b7b-4e11-8724-fd5445e722d2_480x856.jpg?https://headimg.ioneball.com/629f7332-43ab-4b2a-8c06-5e3a0ef46f53.mp4"
+ 		],
+ 		"createTimeString": "2018-05-27 20:20:32",
+
+ 		"share": {
+ 			"title": " #新手区#\n与对门初二小哥哥的单挑，小区条件差没有框，突破不太坚决，因为在学校都是打快攻的说，，本人150",
+ 			"subtitle": "来自壹球用户DEZE，一起来看~",
+ 			"h5url": "http://ioneball.com/article/791745",
+ 			"imageUrl": "https://headimg.ioneball.com/d38d8bba-6b7b-4e11-8724-fd5445e722d2_480x856.jpg?https://headimg.ioneball.com/629f7332-43ab-4b2a-8c06-5e3a0ef46f53.mp4"
+ 		}
+ 	}
+]
+ 
+ 
