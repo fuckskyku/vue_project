@@ -60,6 +60,7 @@ import Bar from './base/Bar'
 	.dynamic{	
 		.container{
 			margin-top: 0.4rem;
+			padding-bottom: 1rem;
 			.dynamic_item{
 				text-align: center;
 				.list{

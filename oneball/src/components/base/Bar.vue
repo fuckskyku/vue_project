@@ -28,6 +28,8 @@
 		background: white;
 		display: flex;
 		padding: 0.2rem 0;
+		
+
 		border-bottom: 1px solid #f1f1f1;
 		li{
 			display: flex;

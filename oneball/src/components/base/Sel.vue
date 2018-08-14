@@ -112,7 +112,7 @@
 					p{
 						// margin-left: -0.4rem;
 						color: #9a9a9a;
-						font-size: 0.18rem;
+						font-size: 0.24rem;
 						.lv{
 							color: #ff4b4b;
 							margin-left: 0.1rem;
@@ -154,14 +154,14 @@
 				.foot{
 					p{	
 						padding: 0.08rem 0.2rem;
-						font-size: 0.12rem;
+						font-size: 0.24rem;
 						color: #999;
 						span{
 							margin: 0 0.1rem;
 						}
 						a{
 							text-decoration: none;
-							font-size: 0.12rem;
+							font-size: 0.24rem;
 						}
 					}
 				}

@@ -84,6 +84,7 @@
 	.column{
 		.columnList{
 			overflow: hidden;
+			padding-bottom: 1rem;
 			.list{
 				border-bottom: 1px solid #f1f1f1;
 				width: 100%;
@@ -145,11 +146,11 @@
 							overflow: hidden;
 						}
 						p:nth-child(2){
-							font-size: 0.1rem;
+							font-size: 0.22rem;
 							color: #ccc;
 						}
 						p:nth-child(3){
-							font-size: 0.1rem;
+							font-size: 0.22rem;
 							color: #ccc;
 							text-align: right;
 						}

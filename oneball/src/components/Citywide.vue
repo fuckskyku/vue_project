@@ -67,6 +67,7 @@
 <style scoped="scoped" lang="less">
 	.city{
 		overflow: hidden;
+		padding-bottom: 1rem;
 		.title{
 			padding: 0.2rem 0.25rem;
 			font-size: 0.32rem;

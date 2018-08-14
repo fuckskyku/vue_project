@@ -60,6 +60,7 @@
 		width: 100%;
 		height: 100%;
 		background: #dfdfdf;
+		z-index: 999;
 		.icon{
 			position: absolute;
 			bottom: 2rem;

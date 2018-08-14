@@ -125,6 +125,7 @@
 	}
 	.home{
 		// padding-top: 0.44rem;
+		padding-bottom: 1rem;
 		overflow: hidden;
 		.scroll{
 			scrollbar-arrow-color: transparent !important;
@@ -162,7 +163,7 @@
 						}						
 					}	
 					p{
-						font-size: 0.1rem;
+						font-size: 0.2rem;
 						color: black;
 						text-indent: 0;
 					}

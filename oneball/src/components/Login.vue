@@ -75,7 +75,7 @@ export default {
 	.login{
 		width: 100%;
 		height: 100%;
-		position: absolute;
+		position: fixed;
 		top: 0;
 		left: 0;
 		background: white;
@@ -86,7 +86,7 @@ export default {
 		.logo{
 			width: 100%;
 			text-align: center;
-			margin-top: 32%;
+			margin-top: 28%;
 			img{
 				width: 3.5rem;
 				height: 1.1rem;
@@ -183,13 +183,14 @@ export default {
 			width: 100%;
 			background: #ff4140;
 			height: 1rem;
+			font-size: 0.4rem;
 		}
 	}
 	.icon{
 		ul{
 			text-align: center;
 			width: 100%;
-			margin: 0.8rem auto;
+			margin: 0.6rem auto;
 			li{
 				display: inline-block;
 				width: 0.86rem;

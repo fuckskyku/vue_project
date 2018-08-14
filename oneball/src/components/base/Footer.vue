@@ -43,6 +43,7 @@
 		left: 0;
 		display: flex;
 		padding: 0.2rem 0;
+		z-index: 88;
 		a{
 			display: flex;
 			flex: 1;

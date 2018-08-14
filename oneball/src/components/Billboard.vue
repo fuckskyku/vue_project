@@ -76,6 +76,7 @@ import Bar from './base/Bar'
 <style scoped="scoped" lang="less">
 	.bill{	
 		overflow: hidden;
+		padding-bottom: 1rem;
 		.list{
 			width: 300%;
 			border-bottom: 1px solid #f1f1f1;
